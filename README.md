@@ -11,7 +11,7 @@ A fully interactive character sheet application for Dungeons and Dragons 5th Edi
 + character name/background info
 + AC/HP/Speed block
 + equipment
-
++ Level-Up interface
 
 
 ## FUTURE WORK
