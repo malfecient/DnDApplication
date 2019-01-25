@@ -1,5 +1,6 @@
 # DnDApplication
 A fully interactive character sheet application for Dungeons and Dragons 5th Edition. Features included we will be all base classes implemented, and their features as they progress in levels
+Built with JavaScript, specifically ReactJS, a package of NodeJS.
 
 + ability scores and modifers
 + saving throws
